@@ -1,4 +1,10 @@
-# Exercise 0.4
+# Exercise 0.4 – Creating a New Note
+
+This sequence diagram shows what happens when a user creates a new note on the notes page. 
+It illustrates the flow of events between the user, the browser executing JavaScript, and the server saving the note and responding back.
+
+You can try the live app here: [Notes app](https://studies.cs.helsinki.fi/exampleapp/notes)
+
 ```mermaid
 sequenceDiagram
     participant User
